@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 220 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="pads">
+        <g transform="matrix(1,0,0,1,-1.40953,6.93419)">
+            <g transform="matrix(0.731707,0,0,0.731707,29.7955,28.9769)">
+                <circle cx="111.056" cy="108.005" r="5.811" style="fill:none;stroke:black;stroke-width:0.68px;"/>
+            </g>
+            <g transform="matrix(0.731707,0,0,0.731707,15.1081,43.5488)">
+                <circle cx="56.312" cy="162.318" r="5.811" style="fill:none;stroke:black;stroke-width:0.68px;"/>
+            </g>
+            <g transform="matrix(0.731707,0,0,0.731707,44.2557,43.5488)">
+                <circle cx="164.953" cy="162.318" r="5.811" style="fill:none;stroke:black;stroke-width:0.68px;"/>
+            </g>
+            <g transform="matrix(2.581,0,0,2.9436,-4.88894,-419.829)">
+                <rect x="3.092" y="142.673" width="83.64" height="73.334" style="fill:none;stroke:black;stroke-width:0.16px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,37.2971,1.12831)">
+            <g transform="matrix(12,0,0,12,115.641,237.234)">
+            </g>
+            <text x="28.934px" y="237.234px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">76.2 mm square</text>
+        </g>
+    </g>
+    <g id="outline">
+    </g>
+</svg>
